@@ -398,7 +398,7 @@ int main()
     MeeleWeapon Sword(10, 10);
     Aragorn.setWeapon(&Sword);
 
-    Warrior Gimly("Gimly", 700);
+    Warrior Gimly("Himly", 700);
     MeeleWeapon Mace(5, 12);
 
     Gimly.setWeapon(&Mace);
